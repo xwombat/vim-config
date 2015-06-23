@@ -1,3 +1,5 @@
+This repository is a fork of fisadev/visa-vim-config.
+
 fisa-vim-config
 ===============
 
